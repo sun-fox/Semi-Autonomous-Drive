@@ -1,8 +1,12 @@
 # Semi-Autonomous-Drive
 This repository contains the software implementation and simulation testing of the code for a lane assist on roads.
 
+<p align="center">
+  <img src="Semi-Autonomous-Drive\Idea_Pitch_PPT-snap.JPG" width="400" title="Encapsulated and abstracted Flow diagram">
+</p>
+
 ## Steps to Run Simulation:
-* **Step 1**: Inorder to run this project you will have to download udacity simulator suitable for your OS. 
+* **Step 1**: Inorder to run this project you will have to download udacity simulator(link: https://github.com/udacity/self-driving-car-sim) suitable for your OS. 
 * **Step 2**: Now open the simulator after installation.
 * **Step 4**: change directory to Behaviour_cloning folder by running 'cd .\Behaviour_cloning\' 
 * **Step 5**: Then run 'python main_drive.py' 
