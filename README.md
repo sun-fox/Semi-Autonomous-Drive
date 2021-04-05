@@ -2,7 +2,7 @@
 This repository contains the software implementation and simulation testing of the code for a lane assist on roads.
 
 <p align="center">
-  <img src="Idea_Pitch_PPT-snap.JPG" width="400" title="Encapsulated and abstracted Flow diagram">
+  <img src="Idea_Pitch_PPT-snap.JPG" width="80%" title="Encapsulated and abstracted Flow diagram">
 </p>
 
 ## Steps to Run Simulation:
